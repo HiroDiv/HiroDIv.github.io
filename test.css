@@ -1,0 +1,30 @@
+
+body{
+		background-color: #F8F3CE;
+}
+.kobe{
+	text-align: center;
+	margin: 0;
+	padding: 10px;
+	color: #57564F;
+	stroke: ;
+	font-family: cursive;
+	margin-bottom: 20px;
+	font-size: 2rem;
+}
+.goback {
+  width: 50px;          /* smaller size */
+  height: auto;         /* keeps aspect ratio */
+  margin-top: 100px;    /* move it down */
+  display: block;       /* remove inline spacing */
+  vertical-align: middle; /* avoids extra space below */
+}
+.hotdog{
+	text-align: center;
+	margin: 0;
+	font-family: cursive;
+	color: #7A7A73;
+	max-width: 600px;
+  margin: 20px auto;
+  margin-bottom: 20px;
+}
